@@ -10,7 +10,7 @@ Este projeto implementa um sistema de gerenciamento de heróis utilizando os con
 
 ## Características
 
-O sistema possui uma classe `heroi` que encapsula as propriedades e comportamentos dos personagens:
+O sistema possui uma classe heroi que encapsula as propriedades e comportamentos dos personagens:
 
 - **Atributos**: nome, classe, idade, tipo e ataque
 - **Métodos**: 
