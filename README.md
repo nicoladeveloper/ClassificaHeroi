@@ -4,7 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
 
-## Sobre o Projeto
+## Resumo do Projeto
 
 Este projeto implementa um sistema de gerenciamento de heróis utilizando os conceitos de Programação Orientada a Objetos (POO) em JavaScript. A aplicação permite criar personagens com diferentes atributos e habilidades, simulando um ambiente de jogo de RPG simplificado.
 
